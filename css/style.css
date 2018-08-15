@@ -613,5 +613,18 @@ Placeholder Sections
 
   .box2 {
     margin-left: 301px;
-    margin-top: -222px;
+    margin-top: -175px;
   }
+
+  bold {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+.pimg {
+  width: 263px;
+  height: 154px;
+  border-style: inset;
+  border-color: #030d18;;
+  border-width: 1px;
+}
